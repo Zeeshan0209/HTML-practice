@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select, Range, textarea</title>
+</head>
+<body>
+    <form action="/server">
+        <!-- for select input element -->
+        <h3>choose your profession</h3>
+        <div>
+            <select name="Profession" id="profession">
+                <option>Select type</option>
+                <option value="dev">Developer</option>
+                <option value="coder">Coder</option>
+            </select>
+        </div>
+         <!-- for range input element -->
+        <h3>Choose experience</h3>
+        <div>
+            <label for="Experience"></label>
+            <input type="range" id="Experience" name="exp" min="0" max="10" step="2">
+        </div>
+        <div> 
+        <!-- for Textarea element -->
+        <label for="feedback">Ypur Feedback</label>
+        <textarea 
+        id="feedback" 
+        name="feedback" 
+        placeholder="type here:" 
+        rows="5" cols="20"></textarea>
+        </div>
+        <button>submit</button>
+    </form>
+</body>
+</html>
