@@ -24,14 +24,14 @@ My HTML Learning journey
 20. Textarea
 
 Practice and Assignment 
-Practice Q1
-Practice Q2
-Practice Q3
-Practice Q4
-Practice Q5
-Practice Q6
-Practice Q7
-Practice Q8
+01. Practice Q1
+02. Practice Q2
+03. Practice Q3
+04. Practice Q4
+05. Practice Q5
+06. Practice Q6
+07. Practice Q7
+08. Practice Q8
 
-Assignment 1
-Assignment 2
+01. Assignment 1
+02. Assignment 2
